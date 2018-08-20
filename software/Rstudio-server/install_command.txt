@@ -1,0 +1,9 @@
+# sudo apt-get install gdebi-core
+# wget https://download2.rstudio.org/rstudio-server-1.1.456-amd64.deb
+# sudo gdebi rstudio-server-1.1.456-amd64.deb
+####
+
+
+# From here:
+
+open your local browser and type "http://172.16.134.44:8787/", then, "Enter".
